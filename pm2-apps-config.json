@@ -1,0 +1,15 @@
+{
+  "apps": [
+    {
+      "name": "express-server",
+      "cwd": "/Users/itaim/home-assignment/express-server",
+      "script": "app.js",
+      "watch": true,
+      "ignore_watch": ["node_modules"],
+      "env": {
+        "EXPRESS_PORT": 3001,
+        "DEBUG": "express"
+      }
+    }
+  ]
+}
