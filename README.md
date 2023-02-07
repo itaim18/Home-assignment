@@ -1,5 +1,5 @@
 # Home-assignment
-### <img src="https://github.com/itaim18/Home-assignment/blob/master/YouTube.svg.webp" alt="logo" width="180" > [My experience](https://www.youtube.com/watch?v=QrIyILiSRo0&ab_channel=ItaiMizlish)
+### <img src="https://github.com/itaim18/Home-assignment/blob/master/YouTube.svg.webp" alt="logo" width="70" > [My experience](https://www.youtube.com/watch?v=QrIyILiSRo0&ab_channel=ItaiMizlish)
 ## 📃 Instructions
 ### To run it locally:
 - open your terminal.
