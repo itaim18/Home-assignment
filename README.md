@@ -1,5 +1,5 @@
 # Home-assignment
-### <img src="https://github.com/itaim18/Home-assignment/blob/master/YouTube.svg.webp" alt="logo" width="60" > [My Experience](https://www.youtube.com/watch?v=QrIyILiSRo0&ab_channel=ItaiMizlish)
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" alt="logo" width="60" > [My Experience](https://www.youtube.com/watch?v=QrIyILiSRo0&ab_channel=ItaiMizlish)
 ## <img src="https://raw.githubusercontent.com/Unitech/pm2/master/pres/pm2-v4.png" alt="logo" width="90" >
 I have tried to combine Pm2 in my workflow and realized that it is a replacement for nodemon, what I'll regularly use, as my development tool to track my changes.
 ### The main differences:
